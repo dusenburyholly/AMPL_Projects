@@ -1,3 +1,5 @@
+###### Project: Maximize profit for Southern Oil Co. via production of Regular and Premuim gasolines.
+
 ###### Ch 2 # 41  - Southern Oil Co.
 
 var R; 			# Regular gasoline
